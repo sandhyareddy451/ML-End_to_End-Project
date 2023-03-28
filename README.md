@@ -1,1 +1,5 @@
-# ML-End_to_End-Project
+# Housing Predictor Machine Learning Project
+
+## Software Requirements and Account Settings
+
+[GithubAccount]
